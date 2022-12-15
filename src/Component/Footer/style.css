@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Kdam+Thmor+Pro&display=swap');
+
+.foot {
+  color: white;
+  text-transform: uppercase;
+  text-align: center;
+  font-family: 'Kdam Thmor Pro', sans-serif;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  opacity: 90%;
+  background-color: black;
+  display: grid;
+  grid-template-columns: [a] 1fr [b] 1fr [c];
+  grid-template-rows: [a] 50px [b] 50px [c];
+}
+
+.copyright {
+  grid-row: b / c;
+  grid-column: a / c;
+  align-self: center;
+  justify-self: center;
+}
+
+.insta {
+  width: 30px;
+  align-self: center;
+  justify-self: flex-start;
+  grid-row: a / b;
+  grid-column: b / c;
+  margin-left: 10px;
+}
+
+.fb {
+  width: 30px;
+  grid-row: a / b;
+  grid-column: a / b;  
+  align-self: center;
+  justify-self: flex-end;
+}
+
+@media screen and (min-width: 600px) {
+  .insta {
+    grid-row: b / c;
+    grid-column: b / c;
+    margin-left: 80px;
+  }
+
+  .foot {
+    grid-template-rows: [a] 10px [b];
+  }
+
+  .fb {
+    grid-row: b / c;
+    grid-column: a / c;
+    justify-self: center;
+    margin-left: 150px;
+  }
+}
