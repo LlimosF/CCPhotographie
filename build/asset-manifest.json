@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0e5a1d97.css",
+    "main.js": "/static/js/main.6bee51a6.js",
+    "static/js/787.60e2d470.chunk.js": "/static/js/787.60e2d470.chunk.js",
+    "static/media/Vedette2.jpg": "/static/media/Vedette2.27948f0fdc9f3f255533.jpg",
+    "static/media/Famille1.jpg": "/static/media/Famille1.ea2a2a7bfa24c685ea63.jpg",
+    "static/media/Bapteme2.jpg": "/static/media/Bapteme2.3b33a200a991e05c8a95.jpg",
+    "static/media/Bapteme1.jpg": "/static/media/Bapteme1.cb644731b93af28aa364.jpg",
+    "static/media/Grossesse2.jpg": "/static/media/Grossesse2.068a5169c93502ac0d44.jpg",
+    "static/media/Couple1.jpg": "/static/media/Couple1.e5f19bee7d5878e4fe3c.jpg",
+    "static/media/Mariage8.jpg": "/static/media/Mariage8.87ee8ba9661a8f52a338.jpg",
+    "static/media/Vedette4.jpg": "/static/media/Vedette4.1cd2e1583513232e3a75.jpg",
+    "static/media/Vedette6.jpg": "/static/media/Vedette6.797f9eeb745d69be52dc.jpg",
+    "static/media/Famille2.jpg": "/static/media/Famille2.ac52555bfa158ade0abb.jpg",
+    "static/media/Grossesse3.jpg": "/static/media/Grossesse3.92db175f209285dffc6e.jpg",
+    "static/media/Vedette1.jpg": "/static/media/Vedette1.9599b0ee8b5ebc2bfeaa.jpg",
+    "static/media/Bebe2.jpg": "/static/media/Bebe2.ff80cef520ada030e818.jpg",
+    "static/media/Couple2.jpg": "/static/media/Couple2.e4f1aafaa64ed3c2691f.jpg",
+    "static/media/Mariage1.jpg": "/static/media/Mariage1.d162efef6bf6264b2462.jpg",
+    "static/media/Vedette3.jpeg": "/static/media/Vedette3.f9efbef06bdaade0a8cb.jpeg",
+    "static/media/Vedette7.jpeg": "/static/media/Vedette7.cf9234b881cdb8091dcd.jpeg",
+    "static/media/Vedette10.jfif": "/static/media/Vedette10.1292e782c9d9e489f23f.jfif",
+    "static/media/Vedette8.webp": "/static/media/Vedette8.690629b65d0eed759da8.webp",
+    "static/media/Vedette9.jpeg": "/static/media/Vedette9.c4e8887703b8bd888c21.jpeg",
+    "static/media/Vedette11.jpeg": "/static/media/Vedette11.7b096827ceab15d3a90e.jpeg",
+    "static/media/Bebe1.jpeg": "/static/media/Bebe1.d9d024a1f78844527f5a.jpeg",
+    "static/media/instagram.png": "/static/media/instagram.75e9f6a17056aed1160c.png",
+    "index.html": "/index.html",
+    "main.0e5a1d97.css.map": "/static/css/main.0e5a1d97.css.map",
+    "main.6bee51a6.js.map": "/static/js/main.6bee51a6.js.map",
+    "787.60e2d470.chunk.js.map": "/static/js/787.60e2d470.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e5a1d97.css",
+    "static/js/main.6bee51a6.js"
+  ]
+}
