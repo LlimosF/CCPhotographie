@@ -11,64 +11,64 @@ export default function PourDeux () {
       <Header />
       <Navtogalerie />
       <div className="container-vedette">
-        <div className="container-p1">
+        <div className="container-couple1">
           <div className="center">
-            <h4>Tokyo</h4>
+            <h4>Pour deux</h4>
           </div>
         </div>
-        <div className="container-p2">
+        <div className="container-couple2">
           <div className="center">
-            <h4>Chicago</h4>
+            <h4>Pour deux</h4>
           </div>
         </div>
-        <div className="container-p3">
+        <div className="container-couple3">
           <div className="center">
-            <h4>Paris</h4>
+            <h4>Pour deux</h4>
           </div>
         </div>
-        <div className="container-p4">
+        <div className="container-couple4">
           <div className="center">
-            <h4>New-york</h4>
+            <h4>Pour deux</h4>
           </div>
         </div>
-        <div className="container-p5">
+        <div className="container-couple5">
           <div className="center">
-            <h4>Londres</h4>
+            <h4>Pour deux</h4>
           </div>
         </div>
-        <div className="container-p6">
+        <div className="container-couple6">
           <div className="center">
-            <h4>Los Angeles</h4>
+            <h4>Pour deux</h4>
           </div>
         </div>
-        <div className="container-p7">
+        <div className="container-couple7">
           <div className="center">
-            <h4>Moskva</h4>
+            <h4>Pour deux</h4>
           </div>
         </div>
-        <div className="container-p8">
+        <div className="container-couple8">
           <div className="center">
-            <h4>Washington</h4>
+            <h4>Pour deux</h4>
           </div>
         </div>
-        <div className="container-p9">
+        <div className="container-couple9">
           <div className="center">
-            <h4>Monaco</h4>
+            <h4>Pour deux</h4>
           </div>
         </div>
-        <div className="container-p10">
+        <div className="container-couple10">
           <div className="center">
-            <h4>Dubai</h4>
+            <h4>Pour deux</h4>
           </div>
         </div>
-        <div className="container-p11">
+        <div className="container-couple11">
           <div className="center">
-            <h4>Thera</h4>
+            <h4>Pour deux</h4>
           </div>
         </div>
-        <div className="container-p12">
+        <div className="container-couple12">
           <div className="center">
-            <h4>Barcelone</h4>
+            <h4>Pour deux</h4>
           </div>
         </div>
       </div>

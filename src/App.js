@@ -4,7 +4,7 @@ import Home from './Pages/Home';
 import Tarifs from './Pages/Tarifs';
 import Contact from './Pages/Contact';
 import Galerie from './Pages/Galerie';
-import Seul from './Pages/Seul';
+import JusteMoi from './Pages/JusteMoi';
 import PourDeux from './Pages/PourDeux';
 import Famille from './Pages/Famille';
 import IlEtaitUneFois from './Pages/IlEtaitUneFois';
@@ -23,7 +23,7 @@ function App() {
             <Route path="/Tarifs" element={<Tarifs />} />
             <Route path="/Contact" element={<Contact />} />
             <Route path="/Galerie" element={<Galerie />} />
-            <Route path="/juste-moi" element={<Seul />} />
+            <Route path="/juste-moi" element={<JusteMoi />} />
             <Route path="/pour-deux" element={<PourDeux />} />
             <Route path="/famille" element={<Famille />} />
             <Route path="/il-était-une-fois" element={<IlEtaitUneFois />} />

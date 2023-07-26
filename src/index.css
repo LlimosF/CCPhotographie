@@ -310,6 +310,303 @@ h4 {
   align-self: center;
 }
 
+/* JUSTE MOI */
+/* JUSTE MOI */
+/* JUSTE MOI */
+
+.container-seul1 {
+  width: 100%;
+  background-image: url(https://images.pexels.com/photos/1656684/pexels-photo-1656684.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 400px;
+  display: grid;
+  justify-self: center;
+  align-self: center;
+}
+
+.container-seul2 {
+  width: 100%;
+  background-image: url(https://images.pexels.com/photos/5612320/pexels-photo-5612320.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 400px;
+  display: grid;
+  justify-self: center;
+  align-self: center;
+}
+
+.container-seul3 {
+  width: 100%;
+  background-image: url(https://images.pexels.com/photos/5490235/pexels-photo-5490235.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 400px;
+  display: grid;
+  justify-self: center;
+  align-self: center;
+}
+
+.container-seul4 {
+  width: 100%;
+  background-image: url(https://images.pexels.com/photos/3754285/pexels-photo-3754285.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 400px;
+  background-position-y: 50%;
+  display: grid;
+  justify-self: center;
+  align-self: center;
+}
+
+.container-seul5 {
+  width: 100%;
+  background-image: url(https://images.pexels.com/photos/4890259/pexels-photo-4890259.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 400px;
+  display: grid;
+  justify-self: center;
+  align-self: center;
+}
+
+.container-seul6 {
+  width: 100%;
+  background-image: url(https://images.pexels.com/photos/9950569/pexels-photo-9950569.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 400px;
+  background-position-y: 50%;
+  display: grid;
+  justify-self: center;
+  align-self: center;
+}
+
+.container-seul7 {
+  width: 100%;
+  background-image: url(https://images.pexels.com/photos/10080749/pexels-photo-10080749.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 400px;
+  background-position-y: 50%;
+  display: grid;
+  justify-self: center;
+  align-self: center;
+}
+
+.container-seul8 {
+  width: 100%;
+  background-image: url(https://images.pexels.com/photos/14783579/pexels-photo-14783579.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 400px;
+  background-position-y: 50%;
+  display: grid;
+  justify-self: center;
+  align-self: center;
+}
+
+.container-seul9 {
+  width: 100%;
+  background-image: url(https://images.pexels.com/photos/413959/pexels-photo-413959.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 400px;
+  display: grid;
+  justify-self: center;
+  align-self: center;
+}
+
+.container-seul10 {
+  width: 100%;
+  background-image: url(https://images.pexels.com/photos/1898555/pexels-photo-1898555.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 400px;
+  background-position-y: 50%;
+  display: grid;
+  justify-self: center;
+  align-self: center;
+}
+
+.container-seul11 {
+  width: 100%;
+  background-image: url(https://images.pexels.com/photos/1755385/pexels-photo-1755385.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 400px;
+  background-position-y: 50%;
+  display: grid;
+  justify-self: center;
+  align-self: center;
+}
+
+.container-seul12 {
+  width: 100%;
+  background-image: url(https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 400px;
+  display: grid;
+  justify-self: center;
+  align-self: center;
+}
+
+/* END JUSTE MOI */
+/* END JUSTE MOI */
+/* END JUSTE MOI */
+
+/* POUR DEUX */
+/* POUR DEUX */
+/* POUR DEUX */
+
+.container-couple1 {
+  width: 100%;
+  background-image: url(https://images.pexels.com/photos/11435514/pexels-photo-11435514.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 400px;
+  background-position-y: 50%;
+  display: grid;
+  justify-self: center;
+  align-self: center;
+}
+
+.container-couple2 {
+  width: 100%;
+  background-image: url(https://images.pexels.com/photos/4904555/pexels-photo-4904555.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 400px;
+  background-position-y: 50%;
+  display: grid;
+  justify-self: center;
+  align-self: center;
+}
+
+.container-couple3 {
+  width: 100%;
+  background-image: url(https://images.pexels.com/photos/4694502/pexels-photo-4694502.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 400px;
+  display: grid;
+  justify-self: center;
+  align-self: center;
+}
+
+.container-couple4 {
+  width: 100%;
+  background-image: url(https://images.pexels.com/photos/4888470/pexels-photo-4888470.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 400px;
+  background-position-y: 50%;
+  display: grid;
+  justify-self: center;
+  align-self: center;
+}
+
+.container-couple5 {
+  width: 100%;
+  background-image: url(https://images.pexels.com/photos/4769689/pexels-photo-4769689.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 400px;
+  background-position-y: 20%;
+  display: grid;
+  justify-self: center;
+  align-self: center;
+}
+
+.container-couple6 {
+  width: 100%;
+  background-image: url(https://images.pexels.com/photos/11434937/pexels-photo-11434937.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 400px;
+  background-position-y: 50%;
+  display: grid;
+  justify-self: center;
+  align-self: center;
+}
+
+.container-couple7 {
+  width: 100%;
+  background-image: url(https://images.pexels.com/photos/4972831/pexels-photo-4972831.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 400px;
+  background-position-y: 50%;
+  display: grid;
+  justify-self: center;
+  align-self: center;
+}
+
+.container-couple8 {
+  width: 100%;
+  background-image: url(https://images.pexels.com/photos/4972842/pexels-photo-4972842.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 400px;
+  background-position-y: 50%;
+  display: grid;
+  justify-self: center;
+  align-self: center;
+}
+
+.container-couple9 {
+  width: 100%;
+  background-image: url(https://images.pexels.com/photos/4695801/pexels-photo-4695801.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 400px;
+  background-position-y: 50%;
+  display: grid;
+  justify-self: center;
+  align-self: center;
+}
+
+.container-couple10 {
+  width: 100%;
+  background-image: url(https://images.pexels.com/photos/9399729/pexels-photo-9399729.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 400px;
+  background-position-y: 50%;
+  display: grid;
+  justify-self: center;
+  align-self: center;
+}
+
+.container-couple11 {
+  width: 100%;
+  background-image: url(https://images.pexels.com/photos/6616672/pexels-photo-6616672.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 400px;
+  background-position-y: 50%;
+  display: grid;
+  justify-self: center;
+  align-self: center;
+}
+
+.container-couple12 {
+  width: 100%;
+  background-image: url(https://images.pexels.com/photos/11434940/pexels-photo-11434940.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position-y: 20%;
+  height: 400px;
+  display: grid;
+  justify-self: center;
+  align-self: center;
+}
+
+/* END POUR DEUX */
+/* END POUR DEUX */
+/* END POUR DEUX */
+
 .center {
   display: grid;
   align-self: center;
