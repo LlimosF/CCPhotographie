@@ -3,6 +3,7 @@ import Header from '../../Component/Header';
 import Footer from '../../Component/Footer';
 import BgFixed from "../../Component/bg-fixed/bg-fixed";
 import Navtogalerie from "../../Component/nav-galerie";
+import Palmares from "../../Component/Palmares";
 
 export default function IlEtaitUneFois () {
   return (
@@ -11,67 +12,68 @@ export default function IlEtaitUneFois () {
       <Header />
       <Navtogalerie />
       <div className="container-vedette">
-        <div className="container-p1">
+        <div className="container-photo container-iletaitunefois1">
           <div className="center">
-            <h4>Tokyo</h4>
+            <h4>Il était une fois</h4>
           </div>
         </div>
-        <div className="container-p2">
+        <div className="container-photo container-iletaitunefois2">
           <div className="center">
-            <h4>Chicago</h4>
+            <h4>Il était une fois</h4>
           </div>
         </div>
-        <div className="container-p3">
+        <div className="container-photo container-iletaitunefois3">
           <div className="center">
-            <h4>Paris</h4>
+            <h4>Il était une fois</h4>
           </div>
         </div>
-        <div className="container-p4">
+        <div className="container-photo container-iletaitunefois4">
           <div className="center">
-            <h4>New-york</h4>
+            <h4>Il était une fois</h4>
           </div>
         </div>
-        <div className="container-p5">
+        <div className="container-photo container-iletaitunefois5">
           <div className="center">
-            <h4>Londres</h4>
+            <h4>Il était une fois</h4>
           </div>
         </div>
-        <div className="container-p6">
+        <div className="container-photo container-iletaitunefois6">
           <div className="center">
-            <h4>Los Angeles</h4>
+            <h4>Il était une fois</h4>
           </div>
         </div>
-        <div className="container-p7">
+        <div className="container-photo container-iletaitunefois7">
           <div className="center">
-            <h4>Moskva</h4>
+            <h4>Il était une fois</h4>
           </div>
         </div>
-        <div className="container-p8">
+        <div className="container-photo container-iletaitunefois8">
           <div className="center">
-            <h4>Washington</h4>
+            <h4>Il était une fois</h4>
           </div>
         </div>
-        <div className="container-p9">
+        <div className="container-photo container-iletaitunefois9">
           <div className="center">
-            <h4>Monaco</h4>
+            <h4>Il était une fois</h4>
           </div>
         </div>
-        <div className="container-p10">
+        <div className="container-photo container-iletaitunefois10">
           <div className="center">
-            <h4>Dubai</h4>
+            <h4>Il était une fois</h4>
           </div>
         </div>
-        <div className="container-p11">
+        <div className="container-photo container-iletaitunefois11">
           <div className="center">
-            <h4>Thera</h4>
+            <h4>Il était une fois</h4>
           </div>
         </div>
-        <div className="container-p12">
+        <div className="container-photo container-iletaitunefois12">
           <div className="center">
-            <h4>Barcelone</h4>
+            <h4>Il était une fois</h4>
           </div>
         </div>
       </div>
+      <Palmares />
       <Footer />
     </div>
   )

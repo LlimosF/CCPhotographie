@@ -178,136 +178,91 @@ h4 {
   font-size: 30px;
 }
 
-.container-p1 {
+.container-photo {
   width: 100%;
-  background-image: url(https://images.pexels.com/photos/3800117/pexels-photo-3800117.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
   background-repeat: no-repeat;
   background-size: cover;
   height: 400px;
   display: grid;
   justify-self: center;
   align-self: center;
+}
+
+/* BARRE DE NAVIGATION GALERIE */
+/* BARRE DE NAVIGATION GALERIE */
+/* BARRE DE NAVIGATION GALERIE */
+
+.nav-galerie {
+  margin-top: 80px;
+  margin-bottom: 30px;
+}
+
+.ul-galerie > li {
+  text-align: center;
+  padding-top: 1px;
+  padding-bottom: 1px;
+}
+
+.link-galerie {
+  color: white;
+  text-decoration: none;
+}
+
+.link-galerie:hover {
+  color: lightgray;
+  text-decoration: underline 1px red;
+}
+
+/* END BARRE DE NAVIGATION GALERIE */
+/* END BARRE DE NAVIGATION GALERIE */
+/* END BARRE DE NAVIGATION GALERIE */
+
+.container-p1 {
+  background-image: url(https://images.pexels.com/photos/3800117/pexels-photo-3800117.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
 }
 
 .container-p2 {
-  width: 100%;
   background-image: url(https://images.pexels.com/photos/2224424/pexels-photo-2224424.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
-  background-repeat: no-repeat;
-  background-size: cover;
-  height: 400px;
-  display: grid;
-  justify-self: center;
-  align-self: center;
 }
 
 .container-p3 {
-  width: 100%;
   background-image: url(https://images.pexels.com/photos/699466/pexels-photo-699466.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
-  background-repeat: no-repeat;
-  background-size: cover;
-  height: 400px;
-  display: grid;
-  justify-self: center;
-  align-self: center;
 }
 
 .container-p4 {
-  width: 100%;
   background-image: url(https://images.pexels.com/photos/2224861/pexels-photo-2224861.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
-  background-repeat: no-repeat;
-  background-size: cover;
-  height: 400px;
-  display: grid;
-  justify-self: center;
-  align-self: center;
 }
 
 .container-p5 {
-  width: 100%;
   background-image: url(https://images.pexels.com/photos/1647120/pexels-photo-1647120.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
-  background-repeat: no-repeat;
-  background-size: cover;
-  height: 400px;
-  display: grid;
-  justify-self: center;
-  align-self: center;
 }
 
 .container-p6 {
-  width: 100%;
   background-image: url(https://images.pexels.com/photos/2531236/pexels-photo-2531236.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
-  background-repeat: no-repeat;
-  background-size: cover;
-  height: 400px;
-  display: grid;
-  justify-self: center;
-  align-self: center;
 }
 
 .container-p7 {
-  width: 100%;
   background-image: url(https://images.pexels.com/photos/753339/pexels-photo-753339.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
-  background-repeat: no-repeat;
-  background-size: cover;
-  height: 400px;
-  display: grid;
-  justify-self: center;
-  align-self: center;
 }
 
 .container-p8 {
-  width: 100%;
   background-image: url(https://images.pexels.com/photos/355959/pexels-photo-355959.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
-  background-repeat: no-repeat;
-  background-size: cover;
-  height: 400px;
-  display: grid;
-  justify-self: center;
-  align-self: center;
 }
 
 .container-p9 {
-  width: 100%;
   background-image: url(https://images.pexels.com/photos/4685189/pexels-photo-4685189.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
-  background-repeat: no-repeat;
-  background-size: cover;
-  height: 400px;
-  display: grid;
-  justify-self: center;
-  align-self: center;
 }
 
 .container-p10 {
-  width: 100%;
   background-image: url(https://images.pexels.com/photos/1534411/pexels-photo-1534411.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
-  background-repeat: no-repeat;
-  background-size: cover;
-  height: 400px;
-  display: grid;
-  justify-self: center;
-  align-self: center;
 }
 
 .container-p11 {
-  width: 100%;
   background-image: url(https://images.pexels.com/photos/3264723/pexels-photo-3264723.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
-  background-repeat: no-repeat;
-  background-size: cover;
-  height: 400px;
-  display: grid;
-  justify-self: center;
-  align-self: center;
 }
 
 .container-p12 {
-  width: 100%;
   background-image: url(https://images.pexels.com/photos/705423/pexels-photo-705423.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
-  background-repeat: no-repeat;
-  background-size: cover;
-  height: 400px;
-  display: grid;
-  justify-self: center;
-  align-self: center;
 }
 
 /* JUSTE MOI */
@@ -315,141 +270,57 @@ h4 {
 /* JUSTE MOI */
 
 .container-seul1 {
-  width: 100%;
   background-image: url(https://images.pexels.com/photos/1656684/pexels-photo-1656684.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
-  background-repeat: no-repeat;
-  background-size: cover;
-  height: 400px;
-  display: grid;
-  justify-self: center;
-  align-self: center;
 }
 
 .container-seul2 {
-  width: 100%;
   background-image: url(https://images.pexels.com/photos/5612320/pexels-photo-5612320.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
-  background-repeat: no-repeat;
-  background-size: cover;
-  height: 400px;
-  display: grid;
-  justify-self: center;
-  align-self: center;
 }
 
 .container-seul3 {
-  width: 100%;
   background-image: url(https://images.pexels.com/photos/5490235/pexels-photo-5490235.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
-  background-repeat: no-repeat;
-  background-size: cover;
-  height: 400px;
-  display: grid;
-  justify-self: center;
-  align-self: center;
 }
 
 .container-seul4 {
-  width: 100%;
   background-image: url(https://images.pexels.com/photos/3754285/pexels-photo-3754285.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
-  background-repeat: no-repeat;
-  background-size: cover;
-  height: 400px;
   background-position-y: 50%;
-  display: grid;
-  justify-self: center;
-  align-self: center;
 }
 
 .container-seul5 {
-  width: 100%;
   background-image: url(https://images.pexels.com/photos/4890259/pexels-photo-4890259.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
-  background-repeat: no-repeat;
-  background-size: cover;
-  height: 400px;
-  display: grid;
-  justify-self: center;
-  align-self: center;
 }
 
 .container-seul6 {
-  width: 100%;
   background-image: url(https://images.pexels.com/photos/9950569/pexels-photo-9950569.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
-  background-repeat: no-repeat;
-  background-size: cover;
-  height: 400px;
   background-position-y: 50%;
-  display: grid;
-  justify-self: center;
-  align-self: center;
 }
 
 .container-seul7 {
-  width: 100%;
   background-image: url(https://images.pexels.com/photos/10080749/pexels-photo-10080749.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
-  background-repeat: no-repeat;
-  background-size: cover;
-  height: 400px;
   background-position-y: 50%;
-  display: grid;
-  justify-self: center;
-  align-self: center;
 }
 
 .container-seul8 {
-  width: 100%;
   background-image: url(https://images.pexels.com/photos/14783579/pexels-photo-14783579.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
-  background-repeat: no-repeat;
-  background-size: cover;
-  height: 400px;
   background-position-y: 50%;
-  display: grid;
-  justify-self: center;
-  align-self: center;
 }
 
 .container-seul9 {
-  width: 100%;
   background-image: url(https://images.pexels.com/photos/413959/pexels-photo-413959.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
-  background-repeat: no-repeat;
-  background-size: cover;
-  height: 400px;
-  display: grid;
-  justify-self: center;
-  align-self: center;
 }
 
 .container-seul10 {
-  width: 100%;
   background-image: url(https://images.pexels.com/photos/1898555/pexels-photo-1898555.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
-  background-repeat: no-repeat;
-  background-size: cover;
-  height: 400px;
   background-position-y: 50%;
-  display: grid;
-  justify-self: center;
-  align-self: center;
 }
 
 .container-seul11 {
-  width: 100%;
   background-image: url(https://images.pexels.com/photos/1755385/pexels-photo-1755385.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
-  background-repeat: no-repeat;
-  background-size: cover;
-  height: 400px;
   background-position-y: 50%;
-  display: grid;
-  justify-self: center;
-  align-self: center;
 }
 
 .container-seul12 {
-  width: 100%;
   background-image: url(https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
-  background-repeat: no-repeat;
-  background-size: cover;
-  height: 400px;
-  display: grid;
-  justify-self: center;
-  align-self: center;
 }
 
 /* END JUSTE MOI */
@@ -461,151 +332,474 @@ h4 {
 /* POUR DEUX */
 
 .container-couple1 {
-  width: 100%;
   background-image: url(https://images.pexels.com/photos/11435514/pexels-photo-11435514.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
-  background-repeat: no-repeat;
-  background-size: cover;
-  height: 400px;
   background-position-y: 50%;
-  display: grid;
-  justify-self: center;
-  align-self: center;
 }
 
 .container-couple2 {
-  width: 100%;
   background-image: url(https://images.pexels.com/photos/4904555/pexels-photo-4904555.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
-  background-repeat: no-repeat;
-  background-size: cover;
-  height: 400px;
   background-position-y: 50%;
-  display: grid;
-  justify-self: center;
-  align-self: center;
 }
 
 .container-couple3 {
-  width: 100%;
   background-image: url(https://images.pexels.com/photos/4694502/pexels-photo-4694502.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
-  background-repeat: no-repeat;
-  background-size: cover;
-  height: 400px;
-  display: grid;
-  justify-self: center;
-  align-self: center;
 }
 
 .container-couple4 {
-  width: 100%;
   background-image: url(https://images.pexels.com/photos/4888470/pexels-photo-4888470.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
-  background-repeat: no-repeat;
-  background-size: cover;
-  height: 400px;
   background-position-y: 50%;
-  display: grid;
-  justify-self: center;
-  align-self: center;
 }
 
 .container-couple5 {
-  width: 100%;
   background-image: url(https://images.pexels.com/photos/4769689/pexels-photo-4769689.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
-  background-repeat: no-repeat;
-  background-size: cover;
-  height: 400px;
   background-position-y: 20%;
-  display: grid;
-  justify-self: center;
-  align-self: center;
 }
 
 .container-couple6 {
-  width: 100%;
   background-image: url(https://images.pexels.com/photos/11434937/pexels-photo-11434937.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
-  background-repeat: no-repeat;
-  background-size: cover;
-  height: 400px;
   background-position-y: 50%;
-  display: grid;
-  justify-self: center;
-  align-self: center;
 }
 
 .container-couple7 {
-  width: 100%;
   background-image: url(https://images.pexels.com/photos/4972831/pexels-photo-4972831.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
-  background-repeat: no-repeat;
-  background-size: cover;
-  height: 400px;
   background-position-y: 50%;
-  display: grid;
-  justify-self: center;
-  align-self: center;
 }
 
 .container-couple8 {
-  width: 100%;
   background-image: url(https://images.pexels.com/photos/4972842/pexels-photo-4972842.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
-  background-repeat: no-repeat;
-  background-size: cover;
-  height: 400px;
   background-position-y: 50%;
-  display: grid;
-  justify-self: center;
-  align-self: center;
 }
 
 .container-couple9 {
-  width: 100%;
   background-image: url(https://images.pexels.com/photos/4695801/pexels-photo-4695801.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
-  background-repeat: no-repeat;
-  background-size: cover;
-  height: 400px;
   background-position-y: 50%;
-  display: grid;
-  justify-self: center;
-  align-self: center;
 }
 
 .container-couple10 {
-  width: 100%;
   background-image: url(https://images.pexels.com/photos/9399729/pexels-photo-9399729.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
-  background-repeat: no-repeat;
-  background-size: cover;
-  height: 400px;
   background-position-y: 50%;
-  display: grid;
-  justify-self: center;
-  align-self: center;
 }
 
 .container-couple11 {
-  width: 100%;
   background-image: url(https://images.pexels.com/photos/6616672/pexels-photo-6616672.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
-  background-repeat: no-repeat;
-  background-size: cover;
-  height: 400px;
   background-position-y: 50%;
-  display: grid;
-  justify-self: center;
-  align-self: center;
 }
 
 .container-couple12 {
-  width: 100%;
   background-image: url(https://images.pexels.com/photos/11434940/pexels-photo-11434940.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
-  background-repeat: no-repeat;
-  background-size: cover;
   background-position-y: 20%;
-  height: 400px;
-  display: grid;
-  justify-self: center;
-  align-self: center;
 }
 
 /* END POUR DEUX */
 /* END POUR DEUX */
 /* END POUR DEUX */
+
+/* FAMILLE */
+/* FAMILLE */
+/* FAMILLE */
+
+.container-famille1 {
+  background-image: url(https://images.pexels.com/photos/5638615/pexels-photo-5638615.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-position-y: 30%;
+}
+
+.container-famille2 {
+  background-image: url(https://images.pexels.com/photos/5775049/pexels-photo-5775049.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-position-y: 30%;
+}
+
+.container-famille3 {
+  background-image: url(https://images.pexels.com/photos/4262423/pexels-photo-4262423.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-position-y: 30%;
+}
+
+.container-famille4 {
+  background-image: url(https://images.pexels.com/photos/5471924/pexels-photo-5471924.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-position-y: 30%;
+}
+
+.container-famille5 {
+  background-image: url(https://images.pexels.com/photos/7743493/pexels-photo-7743493.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-position-y: 50%;
+}
+
+.container-famille6 {
+  background-image: url(https://images.pexels.com/photos/9705763/pexels-photo-9705763.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-position-y: 50%;
+}
+
+.container-famille7 {
+  background-image: url(https://images.pexels.com/photos/7469424/pexels-photo-7469424.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-position-y: 20%;
+}
+
+.container-famille8 {
+  background-image: url(https://images.pexels.com/photos/7713314/pexels-photo-7713314.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-position-y: 50%;
+}
+
+.container-famille9 {
+  background-image: url(https://images.pexels.com/photos/7392324/pexels-photo-7392324.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-position-y: 70%;
+}
+
+.container-famille10 {
+  background-image: url(https://images.pexels.com/photos/11369188/pexels-photo-11369188.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-position-y: 50%;
+}
+
+.container-famille11 {
+  background-image: url(https://images.pexels.com/photos/15239332/pexels-photo-15239332/free-photo-of-noir-et-blanc-amour-jeune-fille-femmes.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-position-y: 20%;
+}
+
+.container-famille12 {
+  background-image: url(https://images.pexels.com/photos/4586683/pexels-photo-4586683.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-position-y: 20%;
+}
+
+/* END FAMILLE */
+/* END FAMILLE */
+/* END FAMILLE */
+
+/* IL ETAIT UNE FOIS */
+/* IL ETAIT UNE FOIS */
+/* IL ETAIT UNE FOIS */
+
+.container-iletaitunefois1 {
+  background-image: url(https://images.pexels.com/photos/4513731/pexels-photo-4513731.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+}
+
+.container-iletaitunefois2 {
+  background-image: url(https://images.pexels.com/photos/3699329/pexels-photo-3699329.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-position-y: 50%;
+}
+
+.container-iletaitunefois3 {
+  background-image: url(https://images.pexels.com/photos/2917339/pexels-photo-2917339.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-position-y: 50%;
+}
+
+.container-iletaitunefois4 {
+  background-image: url(https://images.pexels.com/photos/2006970/pexels-photo-2006970.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-position-y: 50%;
+}
+
+.container-iletaitunefois5 {
+  background-image: url(https://images.pexels.com/photos/1467384/pexels-photo-1467384.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-position-y: 50%;
+}
+
+.container-iletaitunefois6 {
+  background-image: url(https://images.pexels.com/photos/3546537/pexels-photo-3546537.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-position-y: 50%;
+}
+
+.container-iletaitunefois7 {
+  background-image: url(https://images.pexels.com/photos/5427243/pexels-photo-5427243.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-position-y: 50%;
+}
+
+.container-iletaitunefois8 {
+  background-image: url(https://images.pexels.com/photos/2301859/pexels-photo-2301859.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-position-y: 30%;
+}
+
+.container-iletaitunefois9 {
+  background-image: url(https://images.pexels.com/photos/4030784/pexels-photo-4030784.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-position-y: 50%;
+}
+
+.container-iletaitunefois10 {
+  background-image: url(https://images.pexels.com/photos/5853820/pexels-photo-5853820.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-position-y: 50%;
+}
+
+.container-iletaitunefois11 {
+  background-image: url(https://images.pexels.com/photos/6768730/pexels-photo-6768730.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-position-y: 70%;
+}
+
+.container-iletaitunefois12 {
+  background-image: url(https://images.pexels.com/photos/3369464/pexels-photo-3369464.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-position-y: 50%;
+}
+
+/* END IL ETAIT UNE FOIS */
+/* END IL ETAIT UNE FOIS */
+/* END IL ETAIT UNE FOIS */
+
+/* MON BEBE */
+/* MON BEBE */
+/* MON BEBE */
+
+.container-monbebe1 {
+  background-image: url(https://images.pexels.com/photos/2760338/pexels-photo-2760338.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-position-y: 50%;
+}
+
+.container-monbebe2 {
+  background-image: url(https://images.pexels.com/photos/1648377/pexels-photo-1648377.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-position-y: 50%;
+}
+
+.container-monbebe3 {
+  background-image: url(https://images.pexels.com/photos/1271563/pexels-photo-1271563.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-position-y: 50%;
+}
+
+.container-monbebe4 {
+  background-image: url(https://images.pexels.com/photos/4091199/pexels-photo-4091199.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-position-y: 50%;
+}
+
+.container-monbebe5 {
+  background-image: url(https://images.pexels.com/photos/3845492/pexels-photo-3845492.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-position-y: 50%;
+}
+
+.container-monbebe6 {
+  background-image: url(https://images.pexels.com/photos/2731820/pexels-photo-2731820.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-position-y: 50%;
+}
+
+.container-monbebe7 {
+  background-image: url(https://images.pexels.com/photos/3481556/pexels-photo-3481556.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-position-y: 50%;
+}
+
+.container-monbebe8 {
+  background-image: url(https://images.pexels.com/photos/2465818/pexels-photo-2465818.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-position-y: 30%;
+}
+
+.container-monbebe9 {
+  background-image: url(https://images.pexels.com/photos/3952035/pexels-photo-3952035.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-position-y: 50%;
+}
+
+.container-monbebe10 {
+  background-image: url(https://images.pexels.com/photos/3934002/pexels-photo-3934002.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-position-y: 50%;
+}
+
+.container-monbebe11 {
+  background-image: url(https://images.pexels.com/photos/3845213/pexels-photo-3845213.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-position-y: 70%;
+}
+
+.container-monbebe12 {
+  background-image: url(https://images.pexels.com/photos/8765027/pexels-photo-8765027.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-position-y: 50%;
+}
+
+/* END MON BEBE */
+/* END MON BEBE */
+/* END MON BEBE */
+
+/* STREET */
+/* STREET */
+/* STREET */
+
+.container-street1 {
+  background-image: url(https://images.pexels.com/photos/3299386/pexels-photo-3299386.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-position-y: 50%;
+}
+
+.container-street2 {
+  background-image: url(https://images.pexels.com/photos/1563256/pexels-photo-1563256.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-position-y: 50%;
+}
+
+.container-street3 {
+  background-image: url(https://images.pexels.com/photos/2574631/pexels-photo-2574631.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-position-y: 50%;
+}
+
+.container-street4 {
+  background-image: url(https://images.pexels.com/photos/1915845/pexels-photo-1915845.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-position-y: 50%;
+}
+
+.container-street5 {
+  background-image: url(https://images.pexels.com/photos/1297465/pexels-photo-1297465.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-position-y: 50%;
+}
+
+.container-street6 {
+  background-image: url(https://images.pexels.com/photos/1441932/pexels-photo-1441932.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-position-y: 50%;
+}
+
+.container-street7 {
+  background-image: url(https://images.pexels.com/photos/1529041/pexels-photo-1529041.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-position-y: 50%;
+}
+
+.container-street8 {
+  background-image: url(https://images.pexels.com/photos/2129796/pexels-photo-2129796.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-position-y: 30%;
+}
+
+.container-street9 {
+  background-image: url(https://images.pexels.com/photos/1115204/pexels-photo-1115204.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-position-y: 50%;
+}
+
+.container-street10 {
+  background-image: url(https://images.pexels.com/photos/119777/pexels-photo-119777.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-position-y: 50%;
+}
+
+.container-street11 {
+  background-image: url(https://images.pexels.com/photos/2128028/pexels-photo-2128028.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-position-y: 70%;
+}
+
+.container-street12 {
+  background-image: url(https://images.pexels.com/photos/4906403/pexels-photo-4906403.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-position-y: 50%;
+}
+
+/* END STREET */
+/* END STREET */
+/* END STREET */
+
+/* VOITURE */
+/* VOITURE */
+/* VOITURE */
+
+.container-voiture1 {
+  background-image: url(https://images.pexels.com/photos/1164778/pexels-photo-1164778.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-position-y: 50%;
+}
+
+.container-voiture2 {
+  background-image: url(https://images.pexels.com/photos/1545743/pexels-photo-1545743.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-position-y: 50%;
+}
+
+.container-voiture3 {
+  background-image: url(https://images.pexels.com/photos/1805053/pexels-photo-1805053.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-position-y: 50%;
+}
+
+.container-voiture4 {
+  background-image: url(https://images.pexels.com/photos/3593922/pexels-photo-3593922.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-position-y: 50%;
+}
+
+.container-voiture5 {
+  background-image: url(https://images.pexels.com/photos/2882234/pexels-photo-2882234.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-position-y: 50%;
+}
+
+.container-voiture6 {
+  background-image: url(https://images.pexels.com/photos/3156482/pexels-photo-3156482.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-position-y: 50%;
+}
+
+.container-voiture7 {
+  background-image: url(https://images.pexels.com/photos/1729993/pexels-photo-1729993.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-position-y: 50%;
+}
+
+.container-voiture8 {
+  background-image: url(https://images.pexels.com/photos/3457780/pexels-photo-3457780.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-position-y: 30%;
+}
+
+.container-voiture9 {
+  background-image: url(https://images.pexels.com/photos/5086489/pexels-photo-5086489.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-position-y: 50%;
+}
+
+.container-voiture10 {
+  background-image: url(https://images.pexels.com/photos/1841120/pexels-photo-1841120.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-position-y: 80%;
+}
+
+.container-voiture11 {
+  background-image: url(https://images.pexels.com/photos/2739286/pexels-photo-2739286.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-position-y: 70%;
+}
+
+.container-voiture12 {
+  background-image: url(https://images.pexels.com/photos/5214413/pexels-photo-5214413.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-position-y: 50%;
+}
+
+/* END VOITURE */
+/* END VOITURE */
+/* END VOITURE */
+
+/* J'IMMORTALISE L'EVENEMENT */
+/* J'IMMORTALISE L'EVENEMENT */
+/* J'IMMORTALISE L'EVENEMENT */
+
+.container-jimmortalise1 {
+  background-image: url(https://images.pexels.com/photos/265722/pexels-photo-265722.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-position-y: 50%;
+}
+
+.container-jimmortalise2 {
+  background-image: url(https://images.pexels.com/photos/916344/pexels-photo-916344.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-position-y: 50%;
+}
+
+.container-jimmortalise3 {
+  background-image: url(https://images.pexels.com/photos/948185/pexels-photo-948185.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-position-y: 50%;
+}
+
+.container-jimmortalise4 {
+  background-image: url(https://images.pexels.com/photos/1730877/pexels-photo-1730877.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-position-y: 50%;
+}
+
+.container-jimmortalise5 {
+  background-image: url(https://images.pexels.com/photos/157757/wedding-dresses-fashion-character-bride-157757.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-position-y: 50%;
+}
+
+.container-jimmortalise6 {
+  background-image: url(https://images.pexels.com/photos/1244700/pexels-photo-1244700.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-position-y: 50%;
+}
+
+.container-jimmortalise7 {
+  background-image: url(https://images.pexels.com/photos/2781104/pexels-photo-2781104.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-position-y: 50%;
+}
+
+.container-jimmortalise8 {
+  background-image: url(https://images.pexels.com/photos/1024996/pexels-photo-1024996.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-position-y: 30%;
+}
+
+.container-jimmortalise9 {
+  background-image: url(https://images.pexels.com/photos/1777843/pexels-photo-1777843.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-position-y: 50%;
+}
+
+.container-jimmortalise10 {
+  background-image: url(https://images.pexels.com/photos/1640057/pexels-photo-1640057.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-position-y: 80%;
+}
+
+.container-jimmortalise11 {
+  background-image: url(https://images.pexels.com/photos/1393503/pexels-photo-1393503.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-position-y: 70%;
+}
+
+.container-jimmortalise12 {
+  background-image: url(https://images.pexels.com/photos/1587042/pexels-photo-1587042.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-position-y: 50%;
+}
+
+/* END J'IMMORTALISE L'EVENEMENT */
+/* END J'IMMORTALISE L'EVENEMENT */
+/* END J'IMMORTALISE L'EVENEMENT */
 
 .center {
   display: grid;

@@ -10,8 +10,7 @@ import PhotoBebe from "../../media/bebe.jpg";
 import PhotoMariage from "../../media/mariage.jpg";
 import PhotoStreet from "../../media/street.jpg";
 import PhotoVoiture from "../../media/voiture.jpg";
-import Trophee from "./../../media/trophee.png";
-import etoiles from "./../../media/evaluation.png";
+import Palmares from '../../Component/Palmares';
 
 export default function Tarifs () {
   return (
@@ -85,23 +84,7 @@ export default function Tarifs () {
           <p className='price'>Sur mesure</p>
         </div>
       </div>
-      <div className="container-concours">
-          <h3 className="title">palmarès</h3>
-          <ul className="ul-trophee">
-            <li><img src={Trophee} className="trophee"></img>2023 Champion de France</li>
-            <li><img src={Trophee} className="trophee"></img>2023 Champion d'Europe</li>
-            <li><img src={Trophee} className="trophee"></img>2022 Champion de France</li>
-            <li><img src={Trophee} className="trophee"></img>2021 Champion de France</li>
-            <li><img src={Trophee} className="trophee"></img>2020 Champion de France</li>
-            <li><img src={Trophee} className="trophee"></img>2019 Champion d'Europe</li>
-          </ul>
-        </div>
-      <div className="container-link">
-        <button className="link-to">Besoin d'un devis ?</button>
-      </div>
-      <div className="evaluation">
-        <img src={etoiles} className="img-note"></img>
-      </div>
+      <Palmares />
       <Footer />
     </div>
   );
